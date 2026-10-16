@@ -1,0 +1,103 @@
+Contract,InternetService,PaymentMethod,Tenure_Cohort,Total_Customers,Total_Churned,Avg_Monthly_Charges,Total_Revenue,High_Risk_Count,Churn_Rate
+Month-to-month,DSL,Bank transfer (automatic),Established (1-3yrs),1110,180,56.63,1479871.65,187,0.1622
+Month-to-month,DSL,Bank transfer (automatic),Loyal (> 3yrs),660,90,51.85,1720162.17,43,0.1364
+Month-to-month,DSL,Bank transfer (automatic),New Account (<= 1yr),1185,315,50.96,380481.09,59,0.2658
+Month-to-month,DSL,Credit card (automatic),Established (1-3yrs),1035,210,52.83,1230780.21,96,0.2029
+Month-to-month,DSL,Credit card (automatic),Loyal (> 3yrs),630,120,52.93,1581344.09,91,0.1905
+Month-to-month,DSL,Credit card (automatic),New Account (<= 1yr),1110,420,51.13,296007.34,70,0.3784
+Month-to-month,DSL,Electronic check,Established (1-3yrs),1965,540,52.12,2246000.64,204,0.2748
+Month-to-month,DSL,Electronic check,Loyal (> 3yrs),915,210,52.65,2375556.34,89,0.2295
+Month-to-month,DSL,Electronic check,New Account (<= 1yr),4230,2130,47.17,866041.34,193,0.5035
+Month-to-month,DSL,Mailed check,Established (1-3yrs),1425,150,52.93,1639753.64,116,0.1053
+Month-to-month,DSL,Mailed check,Loyal (> 3yrs),255,15,57.45,673819.69,33,0.0588
+Month-to-month,DSL,Mailed check,New Account (<= 1yr),3825,1530,46.76,740710.84,58,0.4
+Month-to-month,Fiber optic,Bank transfer (automatic),Established (1-3yrs),1860,630,87.53,3869712.23,1801,0.3387
+Month-to-month,Fiber optic,Bank transfer (automatic),Loyal (> 3yrs),1740,540,92.88,8254303.67,1711,0.3103
+Month-to-month,Fiber optic,Bank transfer (automatic),New Account (<= 1yr),1305,1065,83.1,707285.39,1206,0.8161
+Month-to-month,Fiber optic,Credit card (automatic),Established (1-3yrs),1860,750,87.35,3955046.3,1802,0.4032
+Month-to-month,Fiber optic,Credit card (automatic),Loyal (> 3yrs),1410,390,92.83,6863462.71,1395,0.2766
+Month-to-month,Fiber optic,Credit card (automatic),New Account (<= 1yr),1125,690,83.0,550961.85,1064,0.6133
+Month-to-month,Fiber optic,Electronic check,Established (1-3yrs),6435,3600,89.48,13327669.86,6274,0.5594
+Month-to-month,Fiber optic,Electronic check,Loyal (> 3yrs),3705,1500,95.64,18049464.56,3703,0.4049
+Month-to-month,Fiber optic,Electronic check,New Account (<= 1yr),9465,6735,82.3,3676708.35,8551,0.7116
+Month-to-month,Fiber optic,Mailed check,Established (1-3yrs),855,330,87.02,1672737.79,823,0.386
+Month-to-month,Fiber optic,Mailed check,Loyal (> 3yrs),315,45,87.7,1350313.22,298,0.1429
+Month-to-month,Fiber optic,Mailed check,New Account (<= 1yr),1845,1155,79.64,591554.74,1608,0.626
+Month-to-month,No,Bank transfer (automatic),Established (1-3yrs),285,60,20.87,149779.33,0,0.2105
+Month-to-month,No,Bank transfer (automatic),Loyal (> 3yrs),60,0,21.33,48567.26,0,0.0
+Month-to-month,No,Bank transfer (automatic),New Account (<= 1yr),630,135,20.22,63697.26,0,0.2143
+Month-to-month,No,Credit card (automatic),Established (1-3yrs),315,15,20.55,130064.03,0,0.0476
+Month-to-month,No,Credit card (automatic),Loyal (> 3yrs),30,0,20.25,29462.27,0,0.0
+Month-to-month,No,Credit card (automatic),New Account (<= 1yr),630,75,20.33,75057.86,0,0.119
+Month-to-month,No,Electronic check,Established (1-3yrs),330,30,21.78,155917.14,0,0.0909
+Month-to-month,No,Electronic check,Loyal (> 3yrs),90,0,21.76,78674.11,0,0.0
+Month-to-month,No,Electronic check,New Account (<= 1yr),615,165,20.25,50135.2,0,0.2683
+Month-to-month,No,Mailed check,Established (1-3yrs),870,45,20.4,374481.92,0,0.0517
+Month-to-month,No,Mailed check,Loyal (> 3yrs),60,15,21.4,54622.77,0,0.25
+Month-to-month,No,Mailed check,New Account (<= 1yr),3945,945,20.27,277785.0,0,0.2395
+One year,DSL,Bank transfer (automatic),Established (1-3yrs),570,60,64.1,961400.54,0,0.1053
+One year,DSL,Bank transfer (automatic),Loyal (> 3yrs),1545,90,62.78,5314996.98,0,0.0583
+One year,DSL,Bank transfer (automatic),New Account (<= 1yr),60,15,47.54,27386.11,0,0.25
+One year,DSL,Credit card (automatic),Established (1-3yrs),825,75,59.65,1327404.33,0,0.0909
+One year,DSL,Credit card (automatic),Loyal (> 3yrs),1620,165,63.69,5525076.28,0,0.1019
+One year,DSL,Credit card (automatic),New Account (<= 1yr),135,15,47.68,56817.01,0,0.1111
+One year,DSL,Electronic check,Established (1-3yrs),540,15,60.48,837305.06,0,0.0278
+One year,DSL,Electronic check,Loyal (> 3yrs),1035,105,63.42,3477426.09,0,0.1014
+One year,DSL,Electronic check,New Account (<= 1yr),165,45,63.52,98306.73,0,0.2727
+One year,DSL,Mailed check,Established (1-3yrs),1035,120,60.7,1635902.7,0,0.1159
+One year,DSL,Mailed check,Loyal (> 3yrs),750,60,59.12,2213191.27,0,0.08
+One year,DSL,Mailed check,New Account (<= 1yr),270,30,51.21,127410.92,0,0.1111
+One year,Fiber optic,Bank transfer (automatic),Established (1-3yrs),480,60,92.62,1249102.09,0,0.125
+One year,Fiber optic,Bank transfer (automatic),Loyal (> 3yrs),1875,285,99.71,10873430.95,0,0.152
+One year,Fiber optic,Credit card (automatic),Established (1-3yrs),240,0,93.39,551654.59,0,0.0
+One year,Fiber optic,Credit card (automatic),Loyal (> 3yrs),1995,345,99.93,11740968.12,0,0.1729
+One year,Fiber optic,Credit card (automatic),New Account (<= 1yr),15,0,85.06,14670.83,0,0.0
+One year,Fiber optic,Electronic check,Established (1-3yrs),435,150,93.28,1190712.41,0,0.3448
+One year,Fiber optic,Electronic check,Loyal (> 3yrs),2445,600,100.2,13993545.74,0,0.2454
+One year,Fiber optic,Electronic check,New Account (<= 1yr),60,15,97.55,51935.86,0,0.25
+One year,Fiber optic,Mailed check,Established (1-3yrs),120,30,95.02,274405.89,0,0.25
+One year,Fiber optic,Mailed check,Loyal (> 3yrs),390,60,98.69,2040332.63,0,0.1538
+One year,Fiber optic,Mailed check,New Account (<= 1yr),30,15,95.33,26380.69,0,0.5
+One year,No,Bank transfer (automatic),Established (1-3yrs),585,30,21.04,306185.4,0,0.0513
+One year,No,Bank transfer (automatic),Loyal (> 3yrs),630,15,21.46,691476.25,0,0.0238
+One year,No,Bank transfer (automatic),New Account (<= 1yr),120,15,20.01,19779.91,0,0.125
+One year,No,Credit card (automatic),Established (1-3yrs),525,0,20.5,271763.73,0,0.0
+One year,No,Credit card (automatic),Loyal (> 3yrs),465,0,21.37,528239.52,0,0.0
+One year,No,Credit card (automatic),New Account (<= 1yr),150,15,20.76,21069.06,0,0.1
+One year,No,Electronic check,Established (1-3yrs),120,0,20.56,55518.93,0,0.0
+One year,No,Electronic check,Loyal (> 3yrs),285,30,22.44,329027.65,0,0.1053
+One year,No,Electronic check,New Account (<= 1yr),120,0,21.17,17200.92,0,0.0
+One year,No,Mailed check,Established (1-3yrs),1230,0,20.22,554760.0,0,0.0
+One year,No,Mailed check,Loyal (> 3yrs),495,0,21.11,506104.41,0,0.0
+One year,No,Mailed check,New Account (<= 1yr),735,30,20.31,98065.92,0,0.0408
+Two year,DSL,Bank transfer (automatic),Established (1-3yrs),180,0,60.9,268919.75,0,0.0
+Two year,DSL,Bank transfer (automatic),Loyal (> 3yrs),3150,45,71.28,14686681.64,0,0.0143
+Two year,DSL,Bank transfer (automatic),New Account (<= 1yr),30,0,57.32,0.0,0,0.0
+Two year,DSL,Credit card (automatic),Established (1-3yrs),195,0,69.96,383151.9,0,0.0
+Two year,DSL,Credit card (automatic),Loyal (> 3yrs),3300,75,72.89,15529678.22,0,0.0227
+Two year,DSL,Credit card (automatic),New Account (<= 1yr),60,0,58.91,22042.27,0,0.0
+Two year,DSL,Electronic check,Established (1-3yrs),45,0,59.85,75906.77,0,0.0
+Two year,DSL,Electronic check,Loyal (> 3yrs),825,60,71.51,3744086.73,0,0.0727
+Two year,DSL,Mailed check,Established (1-3yrs),330,0,54.69,445440.31,0,0.0
+Two year,DSL,Mailed check,Loyal (> 3yrs),1125,0,69.85,4781901.59,0,0.0
+Two year,DSL,Mailed check,New Account (<= 1yr),180,0,58.15,51678.16,0,0.0
+Two year,Fiber optic,Bank transfer (automatic),Established (1-3yrs),45,0,93.4,124454.49,0,0.0
+Two year,Fiber optic,Bank transfer (automatic),Loyal (> 3yrs),2385,225,104.68,16690276.12,0,0.0943
+Two year,Fiber optic,Credit card (automatic),Established (1-3yrs),30,0,111.49,117109.94,0,0.0
+Two year,Fiber optic,Credit card (automatic),Loyal (> 3yrs),2280,90,104.31,15926024.92,0,0.0395
+Two year,Fiber optic,Electronic check,Established (1-3yrs),75,0,101.73,222549.79,0,0.0
+Two year,Fiber optic,Electronic check,Loyal (> 3yrs),1305,135,105.18,8936601.12,0,0.1034
+Two year,Fiber optic,Mailed check,Established (1-3yrs),15,0,113.6,58920.51,0,0.0
+Two year,Fiber optic,Mailed check,Loyal (> 3yrs),300,15,104.56,1904255.11,0,0.05
+Two year,No,Bank transfer (automatic),Established (1-3yrs),270,0,22.23,162244.91,0,0.0
+Two year,No,Bank transfer (automatic),Loyal (> 3yrs),2295,15,22.09,3164116.72,0,0.0065
+Two year,No,Bank transfer (automatic),New Account (<= 1yr),105,0,22.1,25286.57,0,0.0
+Two year,No,Credit card (automatic),Established (1-3yrs),510,15,21.79,295414.84,0,0.0294
+Two year,No,Credit card (automatic),Loyal (> 3yrs),2190,15,22.05,3030715.02,0,0.0068
+Two year,No,Credit card (automatic),New Account (<= 1yr),150,0,21.61,23388.59,0,0.0
+Two year,No,Electronic check,Established (1-3yrs),15,0,24.19,11287.1,0,0.0
+Two year,No,Electronic check,Loyal (> 3yrs),240,0,21.97,292656.18,0,0.0
+Two year,No,Electronic check,New Account (<= 1yr),15,0,19.96,3949.42,0,0.0
+Two year,No,Mailed check,Established (1-3yrs),1080,15,20.92,528430.61,0,0.0139
+Two year,No,Mailed check,Loyal (> 3yrs),2220,15,21.73,2680058.83,0,0.0068
+Two year,No,Mailed check,New Account (<= 1yr),480,0,20.81,63062.55,0,0.0
